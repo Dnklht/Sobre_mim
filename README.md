@@ -10,9 +10,9 @@ Olá a todos, me chamo Thiago. Sou um Analista de Dados com bacharel em Ciência
 - Núvem Azure;
 - Power Platform.
 
-  **Experiência extra:**
+**Experiência extra:**
 
-  - Participei das adequaçõoes de dados na empresa Aethra Sistemas Automotivos S.A para conseguirem concluir a certificação automotiva TISAX.
+ - Participei das adequaçõoes de dados na empresa Aethra Sistemas Automotivos S.A para conseguirem concluir a certificação automotiva TISAX.
 
 # 📙 Portfólio
 
