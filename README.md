@@ -13,6 +13,7 @@ Olá a todos, me chamo Thiago. Sou um Analista de Dados com bacharel em Ciência
 # 📙 Portfólio
 
 Link para meu [portfólio técnico](https://github.com/Dnklht/Portfolio).
+
 Link para o [guia do meu portfólio](https://github.com/Dnklht/Guia_Portfolio)
 
 # 🔧 Ferramentas
