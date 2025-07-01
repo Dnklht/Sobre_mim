@@ -5,10 +5,14 @@ Olá a todos, me chamo Thiago. Sou um Analista de Dados com bacharel em Ciência
 - Consulta de dados com SQL;
 - Desenvolvimento de dashboard e relatórios com Power BI;
 - Análise de dados e Aprendizado de Máquina com Python;
-- Criação de scripts automatizados;
+- Criação de scripts automatizados em Python e .NET;
 - Azure DevOps e Github;
 - Núvem Azure;
 - Power Platform.
+
+  **Experiência extra:**
+
+  - Participei das adequaçõoes de dados na empresa Aethra Sistemas Automotivos S.A para conseguirem concluir a certificação automotiva TISAX.
 
 # 📙 Portfólio
 
