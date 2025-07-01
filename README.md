@@ -12,7 +12,7 @@ Olá a todos, me chamo Thiago. Sou um Analista de Dados com bacharel em Ciência
 
 **Experiência extra:**
 
- - Participei das adequaçõoes de dados na empresa Aethra Sistemas Automotivos S.A para conseguirem concluir a certificação automotiva TISAX.
+ - Participei das adequações de dados na empresa Aethra Sistemas Automotivos S.A para conseguirem concluir a certificação automotiva TISAX.
 
 # 📙 Portfólio
 
