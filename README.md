@@ -7,7 +7,7 @@ Olá a todos, me chamo Thiago. Sou um Analista de Dados com bacharel em Ciência
 - Análise de dados e Aprendizado de Máquina com Python;
 - Criação de scripts automatizados em Python e .NET;
 - Azure DevOps e Github;
-- Núvem Azure;
+- Cloud Azure;
 - Power Platform.
 
 **Experiência extra:**
