@@ -29,4 +29,4 @@ Link para o [guia do meu portfólio](https://github.com/Dnklht/Guia_Portfolio)
 
 # Onde me encontrar:
 
-[Meu linkedin](https://www.linkedin.com/in/thiago-pereira-623550296/){:target="_blank"}
+[Meu linkedin](https://www.linkedin.com/in/thiago-pereira-623550296/)
